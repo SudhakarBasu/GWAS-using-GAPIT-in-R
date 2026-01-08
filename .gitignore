@@ -1,0 +1,27 @@
+# R specific files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# VS Code workspace files
+*.code-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+*.swo
+
+# Large data files (uncomment if needed)
+# *.hmp.txt
+# *.vcf
+# *.ped
+# *.map
+
+# Output files that are too large (optional)
+# results/**/*.pdf
+# results/**/*.png
